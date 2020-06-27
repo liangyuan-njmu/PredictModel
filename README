@@ -1,5 +1,0 @@
-#Predict Model for severe COVID-19 patients
-
-##Usage:
-Download PredictModel_0.1.0.tar.gz 
-install.packages("file/to/path/PredictModel_0.1.0.tar.gz", repos = NULL, type = "source")
